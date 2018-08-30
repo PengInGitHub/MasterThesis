@@ -60,21 +60,21 @@ correct the previously mis-classified 'good' ones.
 ### Conduct an empirical study
 
 The approach is tested by an empirical research.
-1.Data
+#### 1.Data
 ![alt text](https://github.com/PengInGitHub/MasterThesis/blob/master/image/data.png)
-
-2.Several single classifiers are used:
+  
+#### 2.Several single classifiers are used:
 ![alt text](https://github.com/PengInGitHub/MasterThesis/blob/master/image/base%20models.png)
-
-3.Process Data and Feature Engineering
+  
+#### 3.Process Data and Feature Engineering
 ![alt text](https://github.com/PengInGitHub/MasterThesis/blob/master/image/process%20data.png)
-
-4.Train Data
+  
+#### 4.Train Data
 ![alt text](https://github.com/PengInGitHub/MasterThesis/blob/master/image/train%20data.png)
-
-5.Implement Custom Model
+  
+#### 5.Implement Custom Model
 ![alt text](https://github.com/PengInGitHub/MasterThesis/blob/master/image/implement%20custom%20model.png)
-
-6.Evaluate Performance
+  
+#### 6.Evaluate Performance
 ![alt text](https://github.com/PengInGitHub/MasterThesis/blob/master/image/test%20performance.png)
 
