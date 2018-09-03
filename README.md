@@ -6,7 +6,7 @@ with linear model, argues that this model could deal with the **imbalanced data*
 on this improved model, test its performance on **four** up-to-date and large-scale dataset. All of these are in the field of
 **online banking credit scoring** which is a business suffering from imbalanced data.  
 
-### Define the problem  
+### 1. Define the problem  
 
 In the field of credit scoring, **imbalanced data** frequently occur as the number of
 defaulting loans in a portfolio is usually much lower than the number of observations that
@@ -43,7 +43,7 @@ From the perspective of business, this type of **misclassification** especially 
 industry. This is because the negative impact of mouth of word from the disappointed rejected
 users may be substantially enlarged by the Internet.
 
-### Propose an approach
+### 2. Propose an approach
 
 I proposed an improved version of an Ensemble Learning model to make use of the differences of classification rules
 of different types of model. By blending their prediction result the overall prediction accuray rate could be increased.  
@@ -57,7 +57,7 @@ The y-axis is the difference between the single best model (XGB) and the most di
 from the single best, a liner model. By re-fitting the dots above the line, this ensemlbe model helps to
 correct the previously mis-classified 'good' ones.
 
-### Conduct an empirical study
+### 3. Conduct an empirical study
 
 The approach is tested by an empirical research.
 #### 1.Data
@@ -78,5 +78,5 @@ The approach is tested by an empirical research.
 #### 6.Evaluate Performance
 ![alt text](https://github.com/PengInGitHub/MasterThesis/blob/master/image/test%20performance.png)
 
-### Make a conclusion
+### 4. Draw a conclusion
 The model has a moderate peformance when the data distribution is consistant. In a situation that users could be exposured to the distribution of ground truth, for example in a Data Mining or Machine Learning contest, this model could be a useful tool. Nonetheless it requires more discreet to implement in industry. 
