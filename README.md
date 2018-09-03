@@ -79,4 +79,4 @@ The approach is tested by an empirical research.
 ![alt text](https://github.com/PengInGitHub/MasterThesis/blob/master/image/test%20performance.png)
 
 ### Make a conclusion
-The model has a moderate peformance when the data distribution is consistant. In this sense users need to test estimate the distribution of the test data set by trying, which means this model could be a useful tool in Data Mining or Machine Learning contests such as Kaggle, but need to have more discreet to use in industry. 
+The model has a moderate peformance when the data distribution is consistant. In a situation that users could be exposured to the distribution of the ground truth, for example in a Data Mining or Machine Learning contest, this model could be a useful too. Nonetheless it requires more discreet to implement in industry. 
