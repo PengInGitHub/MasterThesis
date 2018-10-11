@@ -3,11 +3,11 @@
 
 My Master Thesis:  
 
-1. points out XGBoost, as a single model itself, is actually weak in classifying the data points around the classification boundry (yeas the tough ones), it ranks such data points only randomly. This problem is especially severe in the situation of **imbalanced data**.
+1. points out XGBoost (XGB), as a single model itself, is actually weak in predicting the data points around the classification boundry (aka the tough ones), it ranks such data points only randomly. This problem is especially severe in the situation of **imbalanced data**.
 
-2. introduces an improved version of a **custom Ensemble Learning model**. In short, the data points which are hard-to-classify are given to classifiers which are different from XBG. Then blends results of these data points with results of other data points which are predicted by XGB. Thanks to this stacking and blending, the overall predictive power is improved. 
+2. introduces an improved version of a **custom Ensemble Learning model**. In short, the data points which are hard-to-classify are given to classifiers which are different from XBG. Then blend results of these data points with results of other data points which are predicted by XGB. Thanks to this stacking and blending, the overall predictive power is improved. 
 
-3. investigates and compares the state-of-the-arts credit scoring classifiers and algorithms implemented in online banking industry, where **imbalanced data** is quite a big trouble.
+3. investigates and compares the state-of-the-arts credit scoring classifiers and algorithms implemented in **online banking ** industry, where **imbalanced data** is quite a big trouble.
 
 4. conducts an **empirical study** to test this model, especially on how to do model ensemble in a more informative way. When it comes to the datasets, there are **four** up-to-date and large-scale datasets in the field of **online banking credit scoring** used.    
 
