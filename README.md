@@ -2,11 +2,11 @@
 ## An Empirical Study of The Improved Partially Stacking Blend Model
 
 My Master Thesis:  
-1. investigates the state-of-the-arts credit scoring classifiers or algorithms in industry, especially those in China where the Internet financing industry is booming. Based on some academic research and industry experience, the limitations of such algorithms are elaborated.  
 
-2. introduces an improved version of a **custom Ensemble Learning model** that blends tree-ensemble model
-with linear model, argues that this model could deal with the **imbalanced data** problem.  
+1. introduces an improved version of a **custom Ensemble Learning model** that blends tree-ensemble model
+with linear model, in order to improve model's predictive power in **imbalanced data**.  
 
+2. investigates the state-of-the-arts credit scoring classifiers or algorithms in industry, especially those in China where the Internet financing industry is booming. Based on some academic research and industry experience, the limitations of such algorithms are elaborated.  
 
 3. conducts an **empirical study** on this improved model, test its performance on **four** up-to-date and large-scale dataset. All of these are in the field of **online banking credit scoring** which is a business suffering from imbalanced data.    
 
