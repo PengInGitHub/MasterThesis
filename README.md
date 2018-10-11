@@ -7,9 +7,9 @@ My Master Thesis:
 
 2. introduces an improved version of a **custom Ensemble Learning model**. In short, the data points which are hard-to-classify are given to classifiers which are different from XBG. Then blend results of these data points with results of other data points which are predicted by XGB. Thanks to this stacking and blending, the overall predictive power is improved. 
 
-3. investigates and compares the state-of-the-arts credit scoring classifiers and algorithms implemented in **online banking ** industry, where **imbalanced data** is quite a big trouble.
+3. investigates and compares the state-of-the-arts credit scoring classifiers and algorithms implemented in online banking industry, where **imbalanced data** is quite a big trouble.
 
-4. conducts an **empirical study** to test this model, especially on how to do model ensemble in a more informative way. When it comes to the datasets, there are **four** up-to-date and large-scale datasets in the field of **online banking credit scoring** used.    
+4. conducts an **empirical study** to test this model, especially on how to do model ensemble in a more informed way. When it comes to the datasets, there are **four** up-to-date and large-scale datasets in the field of **online banking credit scoring** used.    
 
 ### 1. Define the problem  
 
