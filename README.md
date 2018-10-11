@@ -6,9 +6,9 @@ My Master Thesis:
 1. introduces an improved version of a **custom Ensemble Learning model** that blends tree-ensemble model
 with linear model, in order to improve model's predictive power in **imbalanced data**.  
 
-2. investigates the state-of-the-arts credit scoring classifiers or algorithms in industry, especially those in China where the Internet financing industry is booming. Based on some academic research and industry experience, the limitations of such algorithms are elaborated.  
+2. investigates and compares the state-of-the-arts credit scoring classifiers or algorithms implemented in industry, especially those in China where the Internet financing industry is booming.
 
-3. conducts an **empirical study** on this improved model, test its performance on **four** up-to-date and large-scale dataset. All of these are in the field of **online banking credit scoring** which is a business suffering from imbalanced data.    
+3. conducts an **empirical study** to test this improved model on its predictive performance, especially on its variance. Specifically there are **four** up-to-date and large-scale datasets in the field of **online banking credit scoring** used.    
 
 ### 1. Define the problem  
 
