@@ -3,8 +3,7 @@
 
 My Master Thesis:  
 
-1. introduces an improved version of a **custom Ensemble Learning model** that blends tree-ensemble model
-with linear model, in order to improve model's predictive power in **imbalanced data**.  
+1. introduces an improved version of a **custom Ensemble Learning model**. This model improve XGBoost's predictive power in the situation of **imbalanced data**, by stacking and blending XGB's results with linear models' results on the hard-to-classify data points  .  
 
 2. investigates and compares the state-of-the-arts credit scoring classifiers or algorithms implemented in industry, especially those in China where the Internet financing industry is booming.
 
